@@ -31,13 +31,13 @@ https://www.autoitscript.com/forum/topic/28351-improved-_mem-udfs/
 
 ## Screen Shots ##
 Main Tab
-![Main Tab](https://raw.github.com/WildGenie/WildNosBot/ScreenShot/Main Bot Tab.png)
+![Main Tab](https://github.com/WildGenie/WildNosBot/blob/master/ScreenShot/Main%20Bot%20Tab.png)
 
 Snack Tab
-![Snack Tab](https://raw.github.com/WildGenie/WildNosBot/ScreenShot/Snack Tab.png)
+![Snack Tab](https://github.com/WildGenie/WildNosBot/blob/master/ScreenShot/Snack%20Tab.png)
 
 Client Tab
-![Client Tab](https://raw.github.com/WildGenie/WildNosBot/ScreenShot/Client Tab.png)
+![Client Tab](https://github.com/WildGenie/WildNosBot/blob/master/ScreenShot/Client%20Tab.png)
 
 Cheat Tab
-![Cheat Tab](https://raw.github.com/WildGenie/WildNosBot/ScreenShot/Cheat Tab.png)
+![Cheat Tab](https://github.com/WildGenie/WildNosBot/blob/master/ScreenShot/Cheat%20Tab.png)
